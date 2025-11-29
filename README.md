@@ -1,4 +1,11 @@
 # Performance-analysis
+
+
+<img width="1307" height="542" alt="performance dashboard" src="https://github.com/user-attachments/assets/48ed59c8-cd14-4a2b-a462-97712837797a" />
+
+
+
+
 This project focus on the retail performance  that highlights customer behavior, sales trends, and operational insights across  a supermarket business. It shows how different factors impact overall revenue and customer engagement. These insights can help businesses optimize inventory, refine marketing strategies and improve customer experience.
 
 Abstract
@@ -10,17 +17,6 @@ The dataset is sourced from Kaggle and consists of transaction-level records. Ea
 This report analyzes supermarket retail performance, focusing on customer behavior, sales trends, and operational insights. It explores how product categories, locations, payment methods, shipping options, and seasonal factors influence revenue and customer engagement. The goal is to derive insights that support inventory optimization, marketing decisions, and enhanced customer experience. 
  Methodology
 The dataset was explored to understand its structure, quality, stakeholders, and business goals. Variables were categorized into dependent and independent types, enabling examination of relationships across demographics, purchasing behavior, shipping, payment, and product preferences. Several questions were formulated to guide analysis, including identifying category performance, shipping trends, discount impact, and purchase frequency. This leads to the visualization of some of the variables using pivot tables and charts
-
- Results
-   
- <img width="1307" height="542" alt="performance dashboard" src="https://github.com/user-attachments/assets/48ed59c8-cd14-4a2b-a462-97712837797a" />
-
-
-
-
-
-
-
 
 Discussions
 
